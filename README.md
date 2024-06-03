@@ -1,0 +1,2 @@
+# shopdiplom.io
+project
